@@ -1,6 +1,6 @@
 {
 	"name": "@wjx0820/eslint-config-vue",
-	"version": "1.0.0",
+	"version": "0.1.4",
 	"description": "",
 	"main": "index.js",
 	"keywords": [],
@@ -16,7 +16,7 @@
 		"eslint": ">=5.16.0"
 	},
 	"dependencies": {
-		"@wjx0820/eslint-config": "*",
+		"@wjx0820/eslint-config": "0.1.4",
 		"eslint-plugin-nuxt": "0.4.3",
 		"eslint-plugin-vue": "5.2.3"
 	},
